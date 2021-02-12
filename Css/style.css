@@ -1,0 +1,63 @@
+* {
+				margin: 0;
+				padding: 0;
+				position: absolut;
+				align-items: center;
+				
+}
+
+
+
+body {
+         background-color:black;
+        }
+    /* container contem imagem e barra*/
+        .container {
+        				background-color:white;
+        				height:34px;
+        }
+        
+        .container img {
+        				width:80px;
+        				height:50px;
+        }
+        
+        /* fecha a tag onde contém imagem */
+        
+        /* barra de menu */
+        .barra {
+        				background:purple;
+        				text-aling:center;
+        				align-items: center;
+        				
+        }
+        
+        .barra a {
+        				color:white;
+        				 }
+        
+        /* fecha a barra menu */
+        
+        /* contém video e a descrição*/
+        
+        .tamb h1 {
+        				color:white;
+        }
+        
+        .tamb video{
+          widht:100px;
+          height:100px;
+        }
+        
+           /* fechou a tag da descrição */
+        
+        /* Botão de compra do curso */
+        
+        .btn {
+        				font-weight: bold;
+        				border: none;
+        				height: 20px;
+        				border-radius: 10px;
+        }
+
+        /* fecha tag do botão */
